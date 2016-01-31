@@ -14,8 +14,8 @@
   longitude, as string
   title, the name of the marker
   -->
-  <maps-location zoom="15" img="image.jpg" drag="true" 
-  	lattitude="19.412138199999998" longitude="-99.18069129999999" 
+  <maps-location zoom="15", img="image.jpg", drag="true", 
+  	lattitude="19.412138199999998", longitude="-99.18069129999999", 
   		title="red flag">
        </maps-location>
 <!--
